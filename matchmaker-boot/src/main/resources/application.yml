@@ -1,0 +1,6 @@
+match:
+  group-size: 3
+  skill-error: 2
+  latency-error: 10
+  time-spent-limit: 10
+  time-spent-multiplier: 2
